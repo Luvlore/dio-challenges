@@ -1,0 +1,9 @@
+COMANDOS INTERESSANTE:
+  - ls ou dir: ambos os comandos são responsáveis por listar os arquivos da pasta em que nos localizamos, sendo eles pertencentes dos sistemas Unix e Windows, respectivamente;
+  - cd: responsável por entrar em pastas atráves do terminal;
+  - mkdir: comando dos sistemas Unix que criam novas pastas no sistema;
+  - pwd: comando que informa nossa localização nas pastas. Ex: 'etc/src/pasta/pasta2/';
+  - git init: responsável por iniciar o repositório local;
+  - git pull: responsável por baixar o código do repositório remoto para o repositório local;
+  - git push: responsável por subir o código para o repositório remoto;
+  - git commit: responsável por salvar as alterações do repositório;
